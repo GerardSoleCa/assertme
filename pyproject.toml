@@ -1,6 +1,6 @@
 [project]
 name = "assertme"
-version = "0.1.0.dev16"
+version = "0.1.0"
 description = "Utilities for asserting without caring (much)"
 authors = [
     { name = "Gerard Solé", email = "g.sole.ca@gmail.com" }
